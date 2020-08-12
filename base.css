@@ -10,12 +10,16 @@ html {
   font-family: Helvetica;
   justify-content: center;
   align-items: center;
-  margin-top: 15vh;
+  margin-top: 10vh;
   text-align: center;
 }
 
 .heading h1 {
   font-size: 3rem;
+}
+
+.heading img {
+  max-width: 10%;
 }
 
 .docs {
